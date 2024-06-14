@@ -1,21 +1,21 @@
-Ano;Edicao;Ouro;Prata;Bronze;Total
-2020;Toquio;7;6;8;21
-2016;Rio;7;6;6;19
-2012;Londres;3;5;9;17
-2008;Pequim;3;4;10;17
-2004;Atenas;5;2;3;10
-2000;Sidney;0;6;6;12
-1996;Atlatas;3;3;9;15
-1992;Barcelona;2;1;0;3
-1988;Seul;1;2;3;6
-1984;Los Angeles;1;5;2;8
-1980;Moscou;2;0;2;4
-1976;Montreal;0;0;2;2
-1972;Munique;0;0;2;2
-1968;Cidade do México;0;1;2;3
-1964;Tóquio;0;0;1;1
-1960;Roma;0;0;2;2
-1956;Melbourne ;1;0;0;1
-1952;Helsinque;1;0;2;3
-1948;Londres;0;0;1;1
-1920;Antuérpia;1;1;1;3
+Ano,Edicao,Ouro,Prata,Bronze,Total
+2020,Toquio,7,6,8,21
+2016,Rio,7,6,6,19
+2012,Londres,3,5,9,17
+2008,Pequim,3,4,10,17
+2004,Atenas,5,2,3,10
+2000,Sidney,0,6,6,12
+1996,Atlatas,3,3,9,15
+1992,Barcelona,2,1,0,3
+1988,Seul,1,2,3,6
+1984,Los Angeles,1,5,2,8
+1980,Moscou,2,0,2,4
+1976,Montreal,0,0,2,2
+1972,Munique,0,0,2,2
+1968,Cidade do MÃ©xico,0,1,2,3
+1964,TÃ³quio,0,0,1,1
+1960,Roma,0,0,2,2
+1956,Melbourne,1,0,0,1
+1952,Helsinque,1,0,2,3
+1948,Londres,0,0,1,1
+1920,AntuÃ©rpia,1,1,1,3
